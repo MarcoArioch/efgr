@@ -8,7 +8,36 @@
       "store": "",
       "price": 0.00,
       "date": "",
-      "status": 1
+      "status": 1,
+      "store2": "",
+      "url2": "",
+      "store3": "",
+      "url3": "",
+      "specialCode": "",
+      "information": "",
+      "instructions": "",
+      "startDate": "",
+      "endDate": ""
+   },
+   {
+      "title": "Mystery Game",
+      "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/15days-day1-wrapped-desktop-carousel-image_1920x1080-ea976f70de2c93a3061eeace625af439?h=480&resize=1&w=854",
+      "url": "https://bit.ly/3iLNjuW",
+      "store": "Epic Games",
+      "price": 5.00,
+      "date": "15-12-2022",
+      "id": "",
+      "horizontal": "fechasProgramadas",
+      "status": 2,
+      "store2": "",
+      "url2": "",
+      "store3": "",
+      "url3": "",
+      "specialCode": "",
+      "information": "",
+      "instructions": "",
+      "startDate": "2022-12-15T04:00:00.000Z",
+      "endDate": "2022-12-16T04:00:00.000Z"
    },
    {
       "title": "Suna",
@@ -19,7 +48,16 @@
       "date": "??-12-2022",
       "id": "",
       "horizontal": true,
-      "status": 1
+      "status": 1,
+      "store2": "",
+      "url2": "",
+      "store3": "",
+      "url3": "",
+      "specialCode": "",
+      "information": "",
+      "instructions": "",
+      "startDate": "",
+      "endDate": ""
    },
    {
       "title": "Ghost of a Tale",
@@ -30,7 +68,16 @@
       "date": "15-12-2022",
       "id": "",
       "horizontal": true,
-      "status": 1
+      "status": 1,
+      "store2": "",
+      "url2": "",
+      "store3": "",
+      "url3": "",
+      "specialCode": "",
+      "information": "",
+      "instructions": "",
+      "startDate": "",
+      "endDate": ""
    },
    {
       "title": "Divine Knockout (DKO)",
@@ -38,10 +85,19 @@
       "url": "https://bit.ly/3Pe7QV2",
       "store": "Steam",
       "price": 15.00,
-      "date": "14-12-2022",
+      "date": "19-12-2022",
       "id": "",
       "horizontal": true,
-      "status": 1
+      "status": 1,
+      "store2": "",
+      "url2": "",
+      "store3": "",
+      "url3": "",
+      "specialCode": "",
+      "information": "",
+      "instructions": "",
+      "startDate": "",
+      "endDate": ""
    },
    {
       "title": "Saints Row IV: Re-Elected",
@@ -52,7 +108,16 @@
       "date": "15-12-2022",
       "id": "",
       "horizontal": true,
-      "status": 1
+      "status": 1,
+      "store2": "",
+      "url2": "",
+      "store3": "",
+      "url3": "",
+      "specialCode": "",
+      "information": "",
+      "instructions": "",
+      "startDate": "",
+      "endDate": ""
    },
    {
       "title": "Wildcat Gun Machine",
@@ -63,7 +128,16 @@
       "date": "15-12-2022",
       "id": "",
       "horizontal": true,
-      "status": 1
+      "status": 1,
+      "store2": "",
+      "url2": "",
+      "store3": "",
+      "url3": "",
+      "specialCode": "",
+      "information": "",
+      "instructions": "",
+      "startDate": "",
+      "endDate": ""
    },
    {
       "id": "////SUB SCREEN////",
@@ -74,7 +148,16 @@
       "store": "",
       "price": 0.00,
       "date": "??-08-2022",
-      "status": 1
+      "status": 1,
+      "store2": "",
+      "url2": "",
+      "store3": "",
+      "url3": "",
+      "specialCode": "",
+      "information": "",
+      "instructions": "",
+      "startDate": "",
+      "endDate": ""
    },
    {
       "id": "////SUB SCREEN////",
@@ -85,7 +168,16 @@
       "store": "",
       "price": 0.00,
       "date": "??-08-2022",
-      "status": 1
+      "status": 1,
+      "store2": "",
+      "url2": "",
+      "store3": "",
+      "url3": "",
+      "specialCode": "",
+      "information": "",
+      "instructions": "",
+      "startDate": "",
+      "endDate": ""
    },
    {
       "title": "PUBG Founder's Pack",
@@ -96,7 +188,16 @@
       "date": "??-12-2022",
       "id": "",
       "horizontal": true,
-      "status": 1
+      "status": 1,
+      "store2": "",
+      "url2": "",
+      "store3": "",
+      "url3": "",
+      "specialCode": "",
+      "information": "",
+      "instructions": "",
+      "startDate": "",
+      "endDate": ""
    },
    {
       "title": "Gravity Den",
@@ -107,7 +208,16 @@
       "date": "??-12-2022",
       "id": "",
       "horizontal": true,
-      "status": 1
+      "status": 1,
+      "store2": "",
+      "url2": "",
+      "store3": "",
+      "url3": "",
+      "specialCode": "",
+      "information": "",
+      "instructions": "",
+      "startDate": "",
+      "endDate": ""
    },
    {
       "title": "World of Warships — Starter Pack: Dreadnought",
@@ -118,7 +228,16 @@
       "date": "15-12-2022",
       "id": "",
       "horizontal": true,
-      "status": 1
+      "status": 1,
+      "store2": "",
+      "url2": "",
+      "store3": "",
+      "url3": "",
+      "specialCode": "",
+      "information": "",
+      "instructions": "",
+      "startDate": "",
+      "endDate": ""
    },
    {
       "title": "Die Young: Prologue",
@@ -129,7 +248,16 @@
       "date": "??-10-2022",
       "id": "",
       "horizontal": true,
-      "status": 1
+      "status": 1,
+      "store2": "",
+      "url2": "",
+      "store3": "",
+      "url3": "",
+      "specialCode": "",
+      "information": "",
+      "instructions": "",
+      "startDate": "",
+      "endDate": ""
    },
    {
       "title": "Ghost of Tomorrow",
@@ -140,7 +268,16 @@
       "date": "??-11-2022",
       "id": "",
       "horizontal": true,
-      "status": 1
+      "status": 1,
+      "store2": "",
+      "url2": "",
+      "store3": "",
+      "url3": "",
+      "specialCode": "",
+      "information": "",
+      "instructions": "",
+      "startDate": "",
+      "endDate": ""
    },
    {
       "id": "////SUB SCREEN////",
@@ -151,7 +288,16 @@
       "store": "",
       "price": 0.00,
       "date": "??-08-2022",
-      "status": 4
+      "status": 1,
+      "store2": "",
+      "url2": "",
+      "store3": "",
+      "url3": "",
+      "specialCode": "",
+      "information": "",
+      "instructions": "",
+      "startDate": "",
+      "endDate": ""
    },
    {
       "title": "Mystery Game",
@@ -162,7 +308,16 @@
       "date": "15-12-2022",
       "id": "",
       "horizontal": true,
-      "status": 3
+      "status": 3,
+      "store2": "",
+      "url2": "",
+      "store3": "",
+      "url3": "",
+      "specialCode": "",
+      "information": "",
+      "instructions": "",
+      "startDate": "",
+      "endDate": ""
    },
    {
       "id": "////SUB SCREEN////",
@@ -173,7 +328,16 @@
       "store": "",
       "price": 0.00,
       "date": "??-08-2022",
-      "status": 3
+      "status": 1,
+      "store2": "",
+      "url2": "",
+      "store3": "",
+      "url3": "",
+      "specialCode": "",
+      "information": "",
+      "instructions": "",
+      "startDate": "",
+      "endDate": ""
    },
    {
       "title": "STAR WARS™: Squadrons",
@@ -184,7 +348,16 @@
       "date": "01-12-2022",
       "id": "",
       "horizontal": true,
-      "status": 2
+      "status": 1,
+      "store2": "",
+      "url2": "",
+      "store3": "",
+      "url3": "",
+      "specialCode": "",
+      "information": "",
+      "instructions": "",
+      "startDate": "",
+      "endDate": ""
    },
    {
       "title": "Warhammer 40,000: Mechanicus",
@@ -195,7 +368,36 @@
       "date": "03/11/2022",
       "id": "",
       "horizontal": true,
-      "status": 2
+      "status": 1,
+      "store2": "",
+      "url2": "",
+      "store3": "",
+      "url3": "",
+      "specialCode": "",
+      "information": "",
+      "instructions": "",
+      "startDate": "",
+      "endDate": ""
+   },
+   {
+      "id": "////SUB SCREEN////",
+      "horizontal": false,
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/2707/rNZrAmBmEe1hBvfE5WC6JjcR.jpg",
+      "url": "https://www.google.com",
+      "title": "PUBG",
+      "store": "",
+      "price": 0.00,
+      "date": "??-08-2022",
+      "status": 1,
+      "store2": "",
+      "url2": "",
+      "store3": "",
+      "url3": "",
+      "specialCode": "",
+      "information": "",
+      "instructions": "",
+      "startDate": "",
+      "endDate": ""
    },
    {
       "title": "ARK: Survival Evolved",
@@ -206,7 +408,16 @@
       "date": "29-09-2022",
       "id": "",
       "horizontal": true,
-      "status": 2
+      "status": 1,
+      "store2": "",
+      "url2": "",
+      "store3": "",
+      "url3": "",
+      "specialCode": "",
+      "information": "",
+      "instructions": "",
+      "startDate": "",
+      "endDate": ""
    },
    {
       "title": "Shadow of the Tomb Raider: Definitive Edition",
@@ -217,7 +428,16 @@
       "date": "08-09-2022",
       "id": "",
       "horizontal": true,
-      "status": 2
+      "status": 1,
+      "store2": "",
+      "url2": "",
+      "store3": "",
+      "url3": "",
+      "specialCode": "",
+      "information": "",
+      "instructions": "",
+      "startDate": "",
+      "endDate": ""
    },
    {
       "id": "////SUB SCREEN////",
@@ -228,18 +448,16 @@
       "store": "",
       "price": 0.00,
       "date": "??-08-2022",
-      "status": 4
-   },
-   {
-      "title": "DOOM 64",
-      "image": "https://cdn1.epicgames.com/offer/0ea70edafcc54b3191e262bbb6971981/EGS_DOOM64_idSoftwareNightdiveStudios_S1_2560x1440-ad0080b34010d3c86254227a14e96494?h=480&resize=1&w=854",
-      "url": "https://bit.ly/3CfXTBO",
-      "store": "Epic Games",
-      "price": 5.00,
-      "date": "25-08-2022",
-      "id": "",
-      "horizontal": true,
-      "status": 2
+      "status": 1,
+      "store2": "",
+      "url2": "",
+      "store3": "",
+      "url3": "",
+      "specialCode": "",
+      "information": "",
+      "instructions": "",
+      "startDate": "",
+      "endDate": ""
    },
    {
       "title": "Borderlands 3",
@@ -250,7 +468,16 @@
       "date": "26-05-2022",
       "id": "",
       "horizontal": true,
-      "status": 2
+      "status": 1,
+      "store2": "",
+      "url2": "",
+      "store3": "",
+      "url3": "",
+      "specialCode": "",
+      "information": "",
+      "instructions": "",
+      "startDate": "",
+      "endDate": ""
    },
    {
       "id": "",
@@ -261,6 +488,15 @@
       "store": "Epic Games",
       "price": 40.00,
       "date": "19-05-2022",
-      "status": 2
+      "status": 1,
+      "store2": "",
+      "url2": "",
+      "store3": "",
+      "url3": "",
+      "specialCode": "",
+      "information": "",
+      "instructions": "",
+      "startDate": "",
+      "endDate": ""
    }
 ]
