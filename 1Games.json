@@ -20,16 +20,5 @@
       "id":"",
       "horizontal":true,
       "status":1
-   },
-   {
-      "title":"Ghost of a Tale",
-      "image":"https://cdn.akamai.steamstatic.com/steam/apps/417290/capsule_616x353.jpg?t=1601974470",
-      "url":"https://bit.ly/3WfAurf",
-      "store":"GoG",
-      "price":5.00,
-      "date":"15-12-2022",
-      "id":"",
-      "horizontal":true,
-      "status":1
    }
 ]
