@@ -1,5 +1,16 @@
 [
    {
+      "id": "//////////////////////////////////////////CARTA UPDATE PLAYSTORE/////////////////////////////////////////",
+      "horizontal": "PlayStore",
+      "image": "",
+      "url": "",
+      "title": "playstore",
+      "store": "",
+      "price": 0.00,
+      "date": "",
+      "status": 1
+   },
+   {
       "title": "Suna",
       "image": "https://www.indiegalacdn.com/imgs/devs/freebies/products/392f0d81-1ae6-451d-a53f-f75ed23b8fff/prodmain/1670854008.png",
       "url": "https://bit.ly/3VZdwF4",
@@ -21,7 +32,17 @@
       "horizontal": true,
       "status": 1
    },
-
+   {
+      "title": "Divine Knockout (DKO)",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/1294660/header.jpg?t=1670627472",
+      "url": "https://bit.ly/3Pe7QV2",
+      "store": "Steam",
+      "price": 15.00,
+      "date": "14-12-2022",
+      "id": "",
+      "horizontal": true,
+      "status": 1
+   },
    {
       "title": "Saints Row IV: Re-Elected",
       "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/es_LA/games/switch/s/saints-row-iv-re-elected-switch/hero",
