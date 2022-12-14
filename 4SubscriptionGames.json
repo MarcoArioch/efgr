@@ -1,0 +1,145 @@
+[
+    {
+        "title": "Quake",
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/sm/3497/2022December/FGWP_December2022_Crown_Game1_512x288.jpg",
+        "url": "https://amzn.to/3uhNkZS",
+        "store": "Amazon Gaming",
+        "price": 0.00,
+        "date": "31-12-2022",
+        "id": "",
+        "horizontal": true,
+        "status": 1
+    },
+    {
+        "id": "////SUB SCREEN////",
+        "horizontal": "RateUs",
+        "image": "",
+        "url": "https://www.google.com",
+        "title": "RATEUS",
+        "store": "",
+        "price": 0.00,
+        "date": "??-08-2022",
+        "status": 1
+    },
+    {
+        "title": "Brothers: A Tale of Two Sons",
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/sm/3497/2022December/FGWP_December2022_Crown_Game2_512x288.jpg",
+        "url": "https://amzn.to/3OV6SN2",
+        "store": "Amazon Gaming",
+        "price": 0.00,
+        "date": "31-12-2022",
+        "id": "",
+        "horizontal": true,
+        "status": 1
+    },
+    {
+        "title": "Doors: Paradox",
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/sm/3497/2022December/FGWP_December2022_Crown_Game3_512x288.jpg",
+        "url": "https://amzn.to/3ER8frL",
+        "store": "Amazon Gaming",
+        "price": 0.00,
+        "date": "31-12-2022",
+        "id": "",
+        "horizontal": true,
+        "status": 1
+    },
+    {
+        "title": "Desert Child",
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/sm/3497/2022December/FGWP_December2022_Crown_Game5_512x288.jpg",
+        "url": "https://amzn.to/3ix670V",
+        "store": "Amazon Gaming",
+        "price": 0.00,
+        "date": "31-12-2022",
+        "id": "",
+        "horizontal": true,
+        "status": 1
+    },
+    {
+        "title": "The Amazing American Circus",
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/sm/3497/2022December/FGWP_December2022_Crown_Game6_512x288.jpg",
+        "url": "https://amzn.to/3OUfHqL",
+        "store": "Amazon Gaming",
+        "price": 0.00,
+        "date": "31-12-2022",
+        "id": "",
+        "horizontal": true,
+        "status": 1
+    },
+    {
+        "title": "Rose Riddle 2: Werewolf Shadow",
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/sm/3497/2022December/FGWP_December2022_Crown_Game7_512x288.jpg",
+        "url": "https://amzn.to/3B0PIrI",
+        "store": "Amazon Gaming",
+        "price": 0.00,
+        "date": "31-12-2022",
+        "id": "",
+        "horizontal": true,
+        "status": 1
+    },
+    {
+        "title": "Banners of Ruin",
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/sm/3497/2022December/FGWP_December2022_Crown_Game8_512x288.jpg",
+        "url": "https://amzn.to/3XMqKGh",
+        "store": "Amazon Gaming",
+        "price": 0.00,
+        "date": "31-12-2022",
+        "id": "",
+        "horizontal": true,
+        "status": 1
+    },
+    {
+        "title": "Spinch",
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/sm/3497/2022December/FGWP_December2022Crown_Game4_512x288.jpg",
+        "url": "https://amzn.to/3AZ5Km8",
+        "store": "Amazon Gaming",
+        "price": 0.00,
+        "date": "31-12-2022",
+        "id": "",
+        "horizontal": true,
+        "status": 1
+    },
+    {
+        "id": "////SUB SCREEN////",
+        "horizontal": false,
+        "image": "https://cdn1.epicgames.com/offer/fn/23BR_C4S1_EGS_Launcher_Blade_2560x1440_2560x1440-70d48b6b897fd8509891ebeb1c160117?h=270&resize=1&w=480",
+        "url": "https://www.google.com",
+        "title": "Fort",
+        "store": "",
+        "price": 0.00,
+        "date": "??-08-2022",
+        "status": 1
+    },
+    {
+        "title": "In-Game Content",
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/sm/BrowseNodeRevamp/Core/DetailBox_1.png",
+        "url": "https://amzn.to/3yMBU3Y",
+        "store": "Amazon Gaming",
+        "price": 0.00,
+        "date": "??-12-2022",
+        "id": "",
+        "horizontal": true,
+        "status": 1
+    },
+    {
+        "id": "////SUB SCREEN////",
+        "horizontal": false,
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/2707/rNZrAmBmEe1hBvfE5WC6JjcR.jpg",
+        "url": "https://www.google.com",
+        "title": "PUBG",
+        "store": "",
+        "price": 0.00,
+        "date": "??-08-2022",
+        "status": 2
+    },
+    {
+        "id": "////SUB SCREEN////",
+        "horizontal": false,
+        "title": "Poppy Playtime",
+        "image": "https://cdn.akamai.steamstatic.com/steam/apps/1721470/capsule_616x353.jpg?t=1641425530",
+        "url": "https://www.google.com",
+        "store": "",
+        "price": 0.00,
+        "date": "??-08-2022",
+        "status": 3
+    }
+]
